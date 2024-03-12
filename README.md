@@ -1,4 +1,4 @@
-# Fuction-to-generate-individual-Password-Using-Python-
+# Function-to-generate-individual-Password-Using-Python-
 This is a Python program that prompts the user to input a desired password. The program should then verify whether the entered password meets specific requirements and indicate if it is a “Valid Password” or an “Invalid Password.” If the password does not meet the criteria, the program should also provide the reasons for its invalidity.
 
 Develop individual functions to evaluate the password against each of the following conditions (each function should accept the user’s password as an argument and return True if the condition is fulfilled, otherwise False):
